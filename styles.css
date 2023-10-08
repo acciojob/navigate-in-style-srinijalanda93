@@ -1,19 +1,28 @@
-*{
-	font-size:20px;
-	font-family:poppins;
+/* Style for the navigation bar */
+.navbar {
+    background-color: #D3D3D3;
+    padding: 10px;
 }
-.nav-bar{
-	background-color:#D3D3D3;
-	width:100vw;
-	height:30px;
-		padding:10px;
-	margin-right:1rem;
-}
-.nav-bar>ul{
-	list-style:none;
 
+/* Style for the list within the navigation bar */
+.navbar ul {
+    list-style: none; /* Remove bullets */
+    padding: 0;
 }
-.nav-bar li{
-		display:inline;
-	
+
+/* Style for list items */
+.navbar li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+/* Style for links within list items */
+.navbar li a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #000; /* Link text color */
+}
+
+/* Hover effect for links */
+.navbar li a:hover {
+    color: #333; /* Change link text color on hover */
 }
