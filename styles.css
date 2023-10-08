@@ -12,12 +12,13 @@
 
 /* Style for list items */
 .container li {
-    display:block;
+    display:inine;
     margin-right: 1rem;
 }
 
 /* Style for links within list items */
 .container li a {
+	display:flex;
     text-decoration: none; /* Remove underlines from links */
     color: #000; /* Link text color */
 }
