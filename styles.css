@@ -2,20 +2,18 @@
 	font-size:20px;
 	font-family:poppins;
 }
-#heading{
+.nav-bar{
 	background-color:#D3D3D3;
 	width:100vw;
 	height:30px;
-	
-	
-	
+		padding:10px;
+	margin-right:1rem;
 }
-#heading>ul{
+.nav-bar>ul{
 	list-style:none;
 
 }
-li{
+.nav-bar li{
 		display:inline;
-	padding:10px;
-	margin-right:1rem;
+	
 }
