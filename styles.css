@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+*{
+	font-size:20px;
+	font-family:poppins;
+}
+#heading{
+	background-color:#D3D3D3;
+	width:100vw;
+	height:30px;
+	
+	
+	
+}
+#heading>ul{
+	list-style:none;
+
+}
+li{
+		display:inline;
+	padding:10px;
+	margin-right:1rem;
+}
