@@ -11,8 +11,8 @@
 }
 
 /* Style for list items */
-.container li {
-    display:inine;
+.container li{
+    display:inline;
     margin-right: 1rem;
 }
 
