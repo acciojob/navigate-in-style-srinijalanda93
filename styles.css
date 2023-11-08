@@ -12,7 +12,7 @@
 
 /* Style for list items */
 .container li{
-    display:inline;
+    display:flex;
     margin-right: 1rem;
 }
 
