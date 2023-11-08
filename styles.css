@@ -8,6 +8,7 @@
 .container ul {
     list-style: none; /* Remove bullets */
     padding: 0;
+	 display:flex;
 }
 
 /* Style for list items */
